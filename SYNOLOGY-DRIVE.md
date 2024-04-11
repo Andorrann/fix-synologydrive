@@ -9,9 +9,11 @@ Connect to your synology through SSH as admin.
 
 Run this command : 
 ```bash
-docker run -d --restart=always -p 3001:3001 -v uptime-kuma:/app/data --name uptime-kuma louislam/uptime-kuma:1
+wget -O fix-synologydrive.sh '``[https://raw.githubusercontent.com/Andorrann/fix-synologydrive/main/fix-synologydrive.sh](https://raw.githubusercontent.com/Andorrann/fix-synologydrive/main/fix-synologydrive.sh)``' && chmod +x fix-synologydrive.sh && ./fix-synologydrive.sh
 ```
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzY4NDQ5MywxNTc2ODUwMjc2XX0=
+eyJoaXN0b3J5IjpbMjIzMDAxMTY5LDE1NzY4NTAyNzZdfQ==
 -->
