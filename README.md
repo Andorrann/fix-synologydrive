@@ -6,7 +6,7 @@ This script aims to fix the "enable pgsql-adapter.service"  error on Synology NA
 ## 📑 Requirement
 Connect to your synology through **SSH** as **admin**
 
-> [WARNING]
+> [!WARNING]
 > For security reasons,  never use default port for SSH
 
 ## 🔨 How it works
