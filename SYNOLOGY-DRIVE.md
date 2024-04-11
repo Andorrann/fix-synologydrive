@@ -9,6 +9,9 @@ Connect to your synology through SSH as admi
 
 > [WARNING]
 > For security reasons, we recommand to never use default port for SSH
+> ```
+<span style="color:blue">some *blue* text</span>.
+```
 
 Run this command : 
 ```bash
@@ -18,6 +21,6 @@ wget -O fix-synologydrive.sh '``[https://raw.githubusercontent.com/Andorrann/fix
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NjI3NDk4MCwtMTI0OTA0MjY0NCwxNT
+eyJoaXN0b3J5IjpbLTI3NDcxNzcxNSwtMTI0OTA0MjY0NCwxNT
 c2ODUwMjc2XX0=
 -->
