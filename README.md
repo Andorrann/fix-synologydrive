@@ -20,4 +20,4 @@ wget -O fix-synologydrive.sh '``[https://raw.githubusercontent.com/Andorrann/fix
 ```
 &nbsp;
 > [!WARNING]
-> A reboot should not be necessary, but if you notice any aBnormal behavior, restart your NAS
+> A reboot should not be necessary, but if you notice any abnormal behavior, restart your NAS
