@@ -16,10 +16,11 @@ Run this command :
 wget -O fix-synologydrive.sh '``[https://raw.githubusercontent.com/Andorrann/fix-synologydrive/main/fix-synologydrive.sh](https://raw.githubusercontent.com/Andorrann/fix-synologydrive/main/fix-synologydrive.sh)``' && chmod +x fix-synologydrive.sh && ./fix-synologydrive.sh
 ```
 
+
 > [!WARNING]
-> File Systems like **NFS** (Network File System) are **NOT** supported. Please map to a local directory or volume.
+> A reboot should not be necessary, but if you notice any abnormal behavior, restart your NAS
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjE5Nzc3NzAsLTEzNDU4ODkzMTEsLT
+eyJoaXN0b3J5IjpbLTIwNzQ1MjkxMDEsLTEzNDU4ODkzMTEsLT
 I3NDcxNzcxNSwtMTI0OTA0MjY0NCwxNTc2ODUwMjc2XX0=
 -->
