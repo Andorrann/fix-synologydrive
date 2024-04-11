@@ -1,6 +1,6 @@
 # 🚑 Fix synology drive error
 
-This script aim to repair the "enable pgsql-adapter.service" synology error when starting synology drive.
+This script aims to fix the "enable pgsql-adapter.service"  error on Synology NAS when starting Synology drive.
 
 
 ## 📑 Requirement
@@ -20,7 +20,7 @@ wget -O fix-synologydrive.sh '``[https://raw.githubusercontent.com/Andorrann/fix
 > A reboot should not be necessary, but if you notice any abnormal behavior, restart your NAS
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODUwNTYwMTAsLTIwNzQ1MjkxMDEsLT
-EzNDU4ODkzMTEsLTI3NDcxNzcxNSwtMTI0OTA0MjY0NCwxNTc2
-ODUwMjc2XX0=
+eyJoaXN0b3J5IjpbLTc3NTk5Nzk0MiwtMjA3NDUyOTEwMSwtMT
+M0NTg4OTMxMSwtMjc0NzE3NzE1LC0xMjQ5MDQyNjQ0LDE1NzY4
+NTAyNzZdfQ==
 -->
