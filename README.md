@@ -3,7 +3,9 @@
 This script aims to fix the "enable pgsql-adapter.service"  error on Synology NAS when starting Synology drive.
 
 &nbsp;
-<img width="705" alt="image_pgsql" src="https://github.com/Andorrann/fix-synologydrive/assets/166614997/786b2077-b54c-42aa-b483-ac33b9989f25" style="display: block; margin-left: auto; margin-right: auto;">
+
+<img width="705" alt="image_pgsql" src="https://github.com/Andorrann/fix-synologydrive/assets/166614997/786b2077-b54c-42aa-b483-ac33b9989f25">
+
 &nbsp;
 
 ## 📑 Requirement
