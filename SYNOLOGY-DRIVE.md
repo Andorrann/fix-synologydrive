@@ -5,7 +5,7 @@ This script aim to repair the "enable pgsql-adapter.service" synology error when
 
 # 🔨 How it works
 
-
+## Requirement
 Connect to your synology through SSH as admi
 
 > [WARNING]
@@ -20,6 +20,6 @@ wget -O fix-synologydrive.sh '``[https://raw.githubusercontent.com/Andorrann/fix
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY5Nzc3NzAwLC0yNzQ3MTc3MTUsLTEyND
-kwNDI2NDQsMTU3Njg1MDI3Nl19
+eyJoaXN0b3J5IjpbLTEzNDU4ODkzMTEsLTI3NDcxNzcxNSwtMT
+I0OTA0MjY0NCwxNTc2ODUwMjc2XX0=
 -->
