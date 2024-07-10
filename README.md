@@ -19,7 +19,7 @@ Connect to your synology through **SSH** as **admin**
 
 Run this command in SSH terminal : 
 ```bash
-wget -O fix-synologydrive.sh '``[https://raw.githubusercontent.com/Andorrann/fix-synologydrive/main/fix-synologydrive.sh](https://raw.githubusercontent.com/Andorrann/fix-synologydrive/main/fix-synologydrive.sh)``' && chmod +x fix-synologydrive.sh && ./fix-synologydrive.sh
+sudo wget -O fix-synologydrive.sh 'https://raw.githubusercontent.com/Andorrann/fix-synologydrive/main/fix-synologydrive.sh' && sudo chmod +x fix-synologydrive.sh && sudo bash fix-synologydrive.sh
 ```
 &nbsp;
 > [!NOTE]
